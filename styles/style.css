@@ -13,4 +13,26 @@ nav ul li a {
     text-decoration: none;
     transition: 0.3s;
 }
+.banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.banner-content {
+    color: #000000;
+    text-align: center;
+}
+.banner .btn {
+    background-color: #ff4c60;
+    padding: 14px 30px;
+    text-decoration: none;
+    color: #fff;
+    transition: all 0.3s ;
+}
+
+.banner .btn:hover {
+
+    background-color: #ffbf00;
 }
