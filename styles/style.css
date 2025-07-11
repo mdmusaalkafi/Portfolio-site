@@ -1,0 +1,16 @@
+nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li a {
+    padding: 10px 16px;
+    background: #00d03498;
+    color: #ff0000;
+    text-decoration: none;
+    transition: 0.3s;
+}
+}
